@@ -1,2 +1,1 @@
-# Eagles
-Ealgercraft 1.8 (Lastest)
+Ealgercraft 1.8 (Lastest) [u40]
